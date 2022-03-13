@@ -2,7 +2,7 @@
 
 
 
-
+//takes operator & 2 numbers and calls the function
 function operate(operator, a, b){
     a = Number(a);
     b = Number(b);
