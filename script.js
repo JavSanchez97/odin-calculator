@@ -15,7 +15,7 @@ function subtract(a, b){
     return a - b;
 }
 //returns product
-function multiple(){
+function multiply(a,b){
     return a * b;
 }
 //returns quotient, also has a case for divide by 0
